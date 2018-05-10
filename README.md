@@ -9,6 +9,6 @@ I am hoping you like this Idea I want Contibutors to move forward and help us to
 
 ## [Register here to start Contibuting](https://goo.gl/forms/lRBRyEURhmuTMQA13) 
 
-**Note:** Below Refrence is only provided to you to give a glimps that what we are trying to build here but this is only our first step.<br> 
-**Refrence:** You can visit pre-build [Web Player](http://www.chatbotunityasset.com/webplayer/) published by NexusGameSoft,and Watch the [Video](https://www.youtube.com/watch?v=JeF8S56tYfk) to get quick idea.
+**Note:** Below Reference is only provided to you to give a glimps that what we are trying to build here but this is only our first step.<br> 
+**Reference:** You can visit pre-build [Web Player](http://www.chatbotunityasset.com/webplayer/) published by NexusGameSoft,and Watch the [Video](https://www.youtube.com/watch?v=JeF8S56tYfk) to get quick idea.
 
