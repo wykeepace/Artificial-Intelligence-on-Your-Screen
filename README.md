@@ -17,3 +17,4 @@ Link for [Dialogflow SDK for Unity](https://github.com/dialogflow/dialogflow-uni
 **Note:** Below Reference is only provided to you to give a glimps that what we are trying to build here but this is only our first step.<br> 
 **Reference:** You can visit pre-build [Web Player](http://www.chatbotunityasset.com/webplayer/) published by NexusGameSoft,and Watch the [Video](https://www.youtube.com/watch?v=JeF8S56tYfk) to get quick idea.
 
+You can also visit our Morzilla Global Sprint Project [Issue](https://github.com/mozilla/global-sprint/issues/305#issuecomment-388039162) for more details.
